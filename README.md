@@ -1,4 +1,4 @@
-# Hi there, I'm Mohit Naik 👋
+# Hi there, I'm Mohith Naik 👋
 
 ### MERN Stack Developer | Software Engineer
 
